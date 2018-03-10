@@ -1,3 +1,6 @@
-{"dashboard":{"data":[{"source":"Buyalenovo.com","percent":"20"},{"source":"Call center","percent":"30"},{"source":"BTC landing page","percent":"10"},{"source":"College dekho","percent":"10"},{"source":"Social leads","percent":"10"},{"source":"Offer festival lenovo","percent":"10"},{"source":"Frapp","percent":"10"}]},"leads":{"data":[{"source":"Buyalenovo.com","name":"Lauraball","mobile":"876-765-4567","email":"sylvan_wikinson@yahoo.com","status":"hot"},
+{"dashboard":{"data":[{"source":"Buyalenovo.com","percent":"20"},{"source":"Call center","percent":"30"},{"source":"BTC landing page","percent":"10"},{"source":"College dekho","percent":"10"},{"source":"Social leads","percent":"10"},{"source":"Offer festival lenovo","percent":"10"},{"source":"Frapp","percent":"10"}]},
+ "leads":{"data":[{"source":"Buyalenovo.com","name":"Lauraball","mobile":"876-765-4567","email":"sylvan_wikinson@yahoo.com","status":"hot"},
 	{"source":"Buyalenovo.com","name":"Lauraball","mobile":"876-765-4567","email":"sylvan_wikinson@yahoo.com","status":"warm"},
-	{"source":"Buyalenovo.com","name":"Lauraball","mobile":"876-765-4567","email":"sylvan_wikinson@yahoo.com","status":"cold"}]},"adminadmin":{"id":"1","name":"admin","profileimg":"assets/imgs/profileimg.jpg"}}
+	{"source":"Buyalenovo.com","name":"Lauraball","mobile":"876-765-4567","email":"sylvan_wikinson@yahoo.com","status":"cold"}]},
+ "adminadmin":{"id":"1","name":"Leo","profileimg":"assets/imgs/profileimg.jpg","partnerid":"534645","clubid":"293746567","address":"2603,Jawahar colony,Near Saran School,Industrial Town,Faridabad,Haryana-121005",
+	      "postal":"560037","masking":"","mobile1":"7876545678","mobile2":"","email1":"usertest@yopmail.com","email2":"usertest1@yopmail.com","lat":"75","lng":"21"}}
